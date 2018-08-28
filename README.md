@@ -1,2 +1,2 @@
-# purecss
-This is a mini project I decided to do to get better at css
+# Pure CSS - Koala
+This is a quick little css art I did to take a break from the hard stuff and do something a little fun and creative while still coding.
